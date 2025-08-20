@@ -14,8 +14,7 @@ interface HeroBackgroundCardProps {
   siteConfig: any;
   onDelete: (filename: string) => void;
   onCopyToClipboard: (text: string) => void;
-  onSetHeroBackground: (pageType: string, imagePath: string) => void;
-  onSaveOverlaySettings: (imageKey: string, settings: any) => void;
+  onSaveOverlaySettings: (imageKey: string, settings: any, pageSelections: Record<string, boolean>) => void;
   getHeroBackgroundStatus: (pageType: string, imagePath: string) => boolean;
 }
 
@@ -26,7 +25,6 @@ export default function HeroBackgroundCard({
   siteConfig,
   onDelete,
   onCopyToClipboard,
-  onSetHeroBackground,
   onSaveOverlaySettings,
   getHeroBackgroundStatus
 }: HeroBackgroundCardProps) {

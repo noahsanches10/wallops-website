@@ -88,13 +88,11 @@ export default function DesignManager({ siteConfig, setSiteConfig, onSave, isLoa
             >
               <option value="inter">Inter (Default)</option>
               <option value="roboto">Roboto</option>
-              <option value="open-sans">Open Sans</option>
               <option value="lato">Lato</option>
               <option value="montserrat">Montserrat</option>
               <option value="poppins">Poppins</option>
               <option value="nunito">Nunito</option>
               <option value="source-sans">Source Sans Pro</option>
-              <option value="raleway">Raleway</option>
               <option value="work-sans">Work Sans</option>
               <option value="playfair">Playfair Display</option>
               <option value="merriweather">Merriweather</option>
