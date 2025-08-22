@@ -108,9 +108,9 @@ export default async function ServicePage({ params }: ServicePageProps) {
     hero: {
       title: service.title,
       subtitle: service.description,
-      image: service.showThumbnailInHero ? service.image : 
-             service.showContentInHero ? service.contentImage : 
-             service.image,
+      image: service.showThumbnailInHero === true ? service.image : 
+             service.showContentInHero === true ? service.contentImage : 
+             null,
       showThumbnailInHero: service.showThumbnailInHero,
       showContentInHero: service.showContentInHero,
       heroCta: servicesConfig.heroCta
@@ -128,7 +128,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
       <main>
         {/* Hero Section */}
         <Hero content={heroContent} siteConfig={siteConfig} pageType={`service-${params.slug}`} />
-        <div className="py-20">
+        <div className="py-10">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             {/* Content moved to Hero component */}
           </div>
@@ -136,7 +136,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
 
         {/* Long Description Section */}
         {service.longDescription && (
-          <section className="py-16 bg-white">
+          <section className="py-10 bg-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className={`${!service.showThumbnailInHero && !service.showContentInHero && service.contentImage ? 'grid grid-cols-1 lg:grid-cols-2 gap-12 items-center' : ''}`}>
                 <div className={!service.showThumbnailInHero && !service.showContentInHero && service.contentImage ? '' : 'max-w-4xl mx-auto text-center'}>

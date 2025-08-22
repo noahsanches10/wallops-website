@@ -110,10 +110,10 @@ export default function ContactManager({ onSave, isLoading }: ContactManagerProp
                 })
               }
             />
-            <Label>Show "Get In Touch" section with contact information</Label>
+            <Label>Show section with contact information</Label>
           </div>
           <p className="text-sm text-gray-500">
-            When disabled, the contact form will take the full width of the page
+            When disabled, the embedded form will take the full width of the page
           </p>
         </CardContent>
       </Card>
@@ -121,21 +121,20 @@ export default function ContactManager({ onSave, isLoading }: ContactManagerProp
       {/* Contact Form Settings */}
       <Card>
         <CardHeader>
-          <CardTitle>Embedded Form (Recommended)</CardTitle>
+          <CardTitle>Embedded Form</CardTitle>
         </CardHeader>
         <CardContent className="space-y-4">
           <div className="flex items-center space-x-2">
             <Switch
               checked={contactContent.embedForm.enabled}
-              onCheckedChange={(checked) => 
+              onCheckedChange={(checked) =>
                 setContactContent({
                   ...contactContent,
-                  embedForm: { ...contactContent.embedForm, enabled: checked },
-                  standardForm: { ...contactContent.standardForm, enabled: !checked }
+                  embedForm: { ...contactContent.embedForm, enabled: checked }
                 })
               }
             />
-            <Label>Use embedded form (Google Forms, Typeform, etc.)</Label>
+            <Label>Enable embedded form (Google Forms, Typeform, etc.)</Label>
           </div>
           
           {contactContent.embedForm.enabled && (
@@ -177,60 +176,6 @@ export default function ContactManager({ onSave, isLoading }: ContactManagerProp
         </CardContent>
       </Card>
 
-      {/* Standard Form Settings */}
-      <Card>
-        <CardHeader>
-          <CardTitle>Standard Form</CardTitle>
-        </CardHeader>
-        <CardContent className="space-y-4">
-          <div className="flex items-center space-x-2">
-            <Switch
-              checked={contactContent.standardForm.enabled}
-              onCheckedChange={(checked) => 
-                setContactContent({
-                  ...contactContent,
-                  standardForm: { ...contactContent.standardForm, enabled: checked },
-                  embedForm: { ...contactContent.embedForm, enabled: !checked }
-                })
-              }
-            />
-            <Label>Use standard contact form</Label>
-          </div>
-          
-          {contactContent.standardForm.enabled && (
-            <div className="space-y-4">
-              <div>
-                <Label htmlFor="formTitle">Form Title</Label>
-                <Input
-                  id="formTitle"
-                  value={contactContent.standardForm.title}
-                  onChange={(e) => setContactContent({
-                    ...contactContent,
-                    standardForm: { ...contactContent.standardForm, title: e.target.value }
-                  })}
-                />
-              </div>
-              <div>
-                <Label htmlFor="submitText">Submit Button Text</Label>
-                <Input
-                  id="submitText"
-                  value={contactContent.standardForm.submitText}
-                  onChange={(e) => setContactContent({
-                    ...contactContent,
-                    standardForm: { ...contactContent.standardForm, submitText: e.target.value }
-                  })}
-                />
-              </div>
-              <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
-                <p className="text-sm text-yellow-800">
-                  <strong>Note:</strong> Standard form submissions will be logged to the browser console. 
-                  For production use, you'll need to implement server-side form handling or use an embedded form service.
-                </p>
-              </div>
-            </div>
-          )}
-        </CardContent>
-      </Card>
 
       {/* Business Hours - only show if contact info is enabled */}
       {contactContent.showContactInfo && (

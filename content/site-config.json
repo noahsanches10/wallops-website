@@ -4,8 +4,8 @@
   "logo": "/uploads/1755721854470.jpg",
   "brandColors": {
     "primary": "#080D32",
-    "secondary": "#63D8E8",
-    "accent": "#8A58FC"
+    "secondary": "#8A58FC",
+    "accent": "#63D8E8"
   },
   "headerStyle": "primary",
   "footerStyle": "primary",
@@ -16,10 +16,11 @@
   },
   "serviceAreas": [
     "Logan",
-    "Hryum",
+    "Hyrum",
     "Smithfield",
     "Richmond",
-    "Brigham City"
+    "Cache Valley",
+    "Northern Utah"
   ],
   "socialMedia": {
     "facebook": "",
@@ -57,7 +58,7 @@
   "logoSize": 60,
   "favicon": "/uploads/1755721882300.jpg",
   "footerTextColor": "auto",
-  "fontFamily": "inter",
+  "fontFamily": "poppins",
   "heroBackgrounds": {
     "home": "/uploads/hero-background-1755721892721.jpeg"
   },

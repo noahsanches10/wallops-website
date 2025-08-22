@@ -1,13 +1,13 @@
 {
-  "showContactInfo": false,
+  "showContactInfo": true,
   "embedForm": {
     "enabled": true,
-    "url": "https://forms.getrotor.com/26b86348-f2b4-47e2-93c9-ffbe8b43de94/ca77f875-442c-4d81-9b58-84295394a319",
+    "url": "https://forms.getrotor.com/26b86348-f2b4-47e2-93c9-ffbe8b43de94/2029c511-bd76-4d8f-b359-7fd4af4c74ae",
     "title": "Contact Us",
-    "zoom": 110
+    "zoom": 80
   },
   "standardForm": {
-    "enabled": false,
+    "enabled": true,
     "title": "Send Us a Message",
     "submitText": "Send Message"
   },
@@ -18,6 +18,6 @@
     "thursday": "7:00 AM - 6:00 PM",
     "friday": "7:00 AM - 6:00 PM",
     "saturday": "8:00 AM - 4:00 PM",
-    "sunday": "Emergency calls only"
+    "sunday": "Closed"
   }
 }
