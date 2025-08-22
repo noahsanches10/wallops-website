@@ -97,6 +97,31 @@
           "description": "Regular cleaning extends panel life and maintains warranty compliance."
         }
       ]
+    },
+    {
+      "title": "House Washing",
+      "description": "Service description",
+      "icon": "wrench",
+      "image": "https://washh.com/wp-content/uploads/2019/08/Importance-of-Pressure-Washing-Before-Painting-Your-House.jpg",
+      "slug": "house-washing",
+      "benefits": [
+        {
+          "title": "Licensed & Insured",
+          "description": "All our technicians are fully licensed and insured for your protection."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Emergency service available around the clock."
+        },
+        {
+          "title": "Satisfaction Guarantee",
+          "description": "100% satisfaction guarantee on all work."
+        },
+        {
+          "title": "Free Estimates",
+          "description": "Get a detailed, no-obligation estimate for your project."
+        }
+      ]
     }
   ],
   "heroCta": {
