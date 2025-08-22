@@ -100,26 +100,32 @@
     },
     {
       "title": "House Washing",
-      "description": "Service description",
+      "description": "Professional house washing services to restore your home's exterior beauty and protect your investment",
       "icon": "wrench",
       "image": "https://washh.com/wp-content/uploads/2019/08/Importance-of-Pressure-Washing-Before-Painting-Your-House.jpg",
       "slug": "house-washing",
+      "enabled": true,
+      "showOtherServices": true,
+      "showThumbnailInHero": false,
+      "showContentInHero": false,
+      "contentImage": "",
+      "longDescription": "Our professional house washing service transforms your home's exterior, removing years of dirt, grime, mildew, and environmental buildup. Using specialized soft-wash techniques and eco-friendly cleaning solutions, we safely clean all types of siding including vinyl, wood, brick, and stucco. Regular house washing not only improves your home's curb appeal but also protects your investment by preventing damage from harmful contaminants and extending the life of your exterior surfaces.",
       "benefits": [
         {
-          "title": "Licensed & Insured",
-          "description": "All our technicians are fully licensed and insured for your protection."
+          "title": "Soft Wash Technology",
+          "description": "We use gentle, low-pressure soft washing techniques that safely clean without damaging your siding or landscaping."
         },
         {
-          "title": "24/7 Emergency Service",
-          "description": "Emergency service available around the clock."
+          "title": "Eco-Friendly Solutions",
+          "description": "Our biodegradable cleaning solutions are safe for your family, pets, and surrounding vegetation."
         },
         {
-          "title": "Satisfaction Guarantee",
-          "description": "100% satisfaction guarantee on all work."
+          "title": "Complete Exterior Cleaning",
+          "description": "We clean siding, trim, gutters, and outdoor fixtures for a comprehensive exterior transformation."
         },
         {
-          "title": "Free Estimates",
-          "description": "Get a detailed, no-obligation estimate for your project."
+          "title": "Mold & Mildew Removal",
+          "description": "Specialized treatments to eliminate harmful mold, mildew, and algae growth from your home's exterior."
         }
       ]
     }
