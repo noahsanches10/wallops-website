@@ -110,10 +110,10 @@ export default function ContactManager({ onSave, isLoading }: ContactManagerProp
                 })
               }
             />
-            <Label>Show "Get In Touch" section with contact information</Label>
+            <Label>Show section with contact information</Label>
           </div>
           <p className="text-sm text-gray-500">
-            When disabled, the contact form will take the full width of the page
+            When disabled, the embedded form will take the full width of the page
           </p>
         </CardContent>
       </Card>
