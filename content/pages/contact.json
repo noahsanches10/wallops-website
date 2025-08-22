@@ -1,5 +1,5 @@
 {
-  "showContactInfo": false,
+  "showContactInfo": true,
   "embedForm": {
     "enabled": true,
     "url": "https://forms.getrotor.com/26b86348-f2b4-47e2-93c9-ffbe8b43de94/ca77f875-442c-4d81-9b58-84295394a319",
