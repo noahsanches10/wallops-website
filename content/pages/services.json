@@ -7,7 +7,7 @@
   "services": [
     {
       "title": "Window Cleaning",
-      "description": "Crystal clear windows inside and out using professional techniques and purified water systems",
+      "description": "Crystal clear windows inside and out using premium techniques and purified water systems",
       "icon": "droplets",
       "image": "/uploads/service-1758832593765.jpg",
       "slug": "window-cleaning",
@@ -16,7 +16,7 @@
       "showThumbnailInHero": false,
       "showContentInHero": false,
       "contentImage": "",
-      "longDescription": "Our professional window cleaning service delivers streak-free, crystal clear results using advanced purified water systems and professional-grade squeegees. We clean both interior and exterior surfaces, including screens and sills, ensuring your windows provide the clearest possible view while enhancing your home's curb appeal.",
+      "longDescription": "Our premium window cleaning service delivers streak-free, crystal clear results using advanced purified water systems and professional-grade squeegees. We clean both interior and exterior surfaces, including screens and sills, ensuring your windows provide the clearest possible view while enhancing your home's curb appeal.",
       "benefits": [
         {
           "title": "Purified Water System",
@@ -38,7 +38,7 @@
     },
     {
       "title": "Painting",
-      "description": "Professional exterior painting services that enhance and protect your Wisconsin home with premium-quality finishes",
+      "description": "Professional exterior & interior painting that enhances & protects your Wisconsin Home.",
       "icon": "wrench",
       "image": "https://5.imimg.com/data5/FG/KM/MY-8797479/commercial-painting-services.jpg",
       "slug": "painting",
@@ -47,7 +47,7 @@
       "showThumbnailInHero": false,
       "showContentInHero": false,
       "contentImage": "",
-      "longDescription": "Our professional exterior painting service transforms your home's appearance while providing lasting protection against Wisconsin's harsh weather conditions. We handle everything from surface preparation to final coat application, ensuring beautiful, long-lasting results. Whether you're refreshing your home's color or preparing a new surface, our experienced team uses premium-grade paints and proven techniques to deliver exceptional quality and durability.",
+      "longDescription": "Our professional exterior painting service transforms your home's appearance while protecting it against Wisconsin's harsh weather conditions. We handle everything from surface preparation to final coat application, using premium-grade paints and proven techniques to deliver exceptional quality and durability. PureVue Painting, Coated to Last.",
       "benefits": [
         {
           "title": "Premium Paint Quality",

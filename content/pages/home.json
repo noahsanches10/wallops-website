@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Clear Views, Clear Minds",
-    "subtitle": "The best Premium Window Cleaning & Painting Service in Wisconsin. Clearing your minds with clear views. Let PureVue brighten your day!",
+    "subtitle": "The best Premium Window Cleaning & Painting Service in Wisconsin",
     "image": "",
     "ctaText": "Get Free Estimate",
     "ctaLink": "/contact",
@@ -50,24 +50,24 @@
     },
     "whyChooseUs": {
       "enabled": true,
-      "title": "Why Milwaukee Chooses PureVue",
+      "title": "Why Wisconsin Chooses PureVue",
       "subtitle": "",
       "background": "secondary-light",
       "items": [
         {
           "icon": "award",
           "title": "Locally Owned, Community Trusted",
-          "description": "As a Milwaukee natives, we pour heart into every exterior cleaning job, building trust with neighbors through reliable, friendly service."
+          "description": "As Wisconsin natives, we pour heart into every job, building trust with neighbors through a reliable, friendly service."
         },
         {
           "icon": "droplets",
           "title": "Professional Results, Every Time",
-          "description": "Our skilled team delivers sparkling Milwaukee window cleaning and powerful pressure washing that transforms your property with precision and care."
+          "description": "Our skilled team delivers premium Wisconsin Window Cleaning and Painting that transforms your property with precision and care."
         },
         {
           "icon": "users",
           "title": "Customer-First Approach",
-          "description": "We prioritize your satisfaction, offering tailored gutter cleaning and house washing solutions with clear communication and no shortcuts."
+          "description": "We prioritize your satisfaction by offering a tailored solution: clear communication, a precise walk-around, no shortcuts."
         }
       ]
     },
@@ -146,27 +146,23 @@
       "items": [
         {
           "question": "How often should I have my windows professionally cleaned?",
-          "answer": "For most homes, we recommend professional window cleaning every 3-6 months. However, this can vary based on your location, weather conditions, and personal preferences. Homes near busy roads or in dusty areas may benefit from more frequent cleaning."
-        },
-        {
-          "question": "Do you provide your own water and equipment?",
-          "answer": "Yes, we bring all necessary equipment, cleaning solutions, and purified water. We use professional-grade tools and eco-friendly cleaning products to ensure the best results while protecting your landscaping."
-        },
-        {
-          "question": "What if I'm not satisfied with the cleaning?",
-          "answer": "We stand behind our work with a 100% satisfaction guarantee. If you're not completely happy with our service, we'll return within 24 hours to make it right at no additional charge."
+          "answer": "For Wisconsin homes, we recommend professional window cleaning every 3-6 months. This ensures that your windows stay not only clean but protected year round!"
         },
         {
           "question": "What types of windows do you clean?",
-          "answer": "We specialize in cleaning all types of windows, including single-pane, double-pane, and insulated glass units. Our services are suitable for both residential and commercial properties."
+          "answer": "We specialize in cleaning all types of windows, wood, aluminum, and vinyl framed windows. Our services are suitable for both residential and commercial properties. We also clean lead glass windows."
+        },
+        {
+          "question": "Do you have a satisfaction guarantee?",
+          "answer": "Yes! We stand behind our work with a 100% satisfaction guarantee. If you're not completely happy with our service, we'll make it right at no additional charge."
         },
         {
           "question": "How long does a fresh coat of paint last?",
-          "answer": "The lifespan of exterior paint typically ranges from 5-7 years in Wisconsin, depending on weather exposure, surface preparation, and paint quality. We use premium, weather-resistant paints and proper application techniques to maximize durability and ensure your home stays looking fresh."
+          "answer": "The lifespan of exterior paint typically ranges from 5-7 years in Wisconsin, however OUR paint products last 8-15 years depending on weather exposure, surface preparation, and number of coats. We use premium, weather-resistant paints and proper application techniques to maximize durability and ensure you're getting exactly what you're looking for."
         },
         {
           "question": "What surfaces can you paint on your exterior painting service?",
-          "answer": "We paint a wide variety of exterior surfaces including vinyl siding, fiber cement, wood siding, fascia, trim, doors, shutters, and more. Our expert painters assess each surface and recommend the best paint type and preparation methods for lasting results."
+          "answer": "We paint all wood types, aluminum, vinyl (with vinyl safe paint), and any cement based projects! This includes all parts of your home or business, shutters, facia, eaves, siding, doors, inside & outside."
         }
       ]
     },

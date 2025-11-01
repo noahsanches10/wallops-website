@@ -14,10 +14,10 @@
         "textColor": "white"
       },
       "secondary": {
-        "enabled": false,
-        "text": "Contact Us",
-        "link": "/contact",
-        "color": "outline",
+        "enabled": true,
+        "text": "Call Now",
+        "link": "tel:(262) 721-5753",
+        "color": "white",
         "textColor": "primary"
       }
     }
@@ -30,13 +30,13 @@
     "steps": [
       {
         "step": 1,
-        "title": "Deep Clean + Hard Water Removal",
+        "title": "Deep Clean + Soft Water Removal",
         "description": "We begin by restoring clarity, removing layers of grime and stubborn mineral deposits."
       },
       {
         "step": 2,
         "title": "Nanocoat Application",
-        "description": "We apply a clear barrier that resists hard water stains—a shield for lasting protection."
+        "description": "We apply a clear barrier that resists soft water stains—a shield for lasting protection."
       },
       {
         "step": 3,
@@ -57,7 +57,7 @@
     "items": [
       {
         "title": "Long-Lasting Protection",
-        "description": "Specialized treatments that keep glass cleaner between visits.",
+        "description": "Treatments that keep glass cleaner between visits.",
         "icon": "shield"
       },
       {
@@ -67,7 +67,7 @@
       },
       {
         "title": "Guaranteed Peace of Mind",
-        "description": "If the weather or hard water strikes, we’ve got you covered.",
+        "description": "If the birds or rain strikes, we’ve got you covered.",
         "icon": "thumbsup"
       }
     ]
