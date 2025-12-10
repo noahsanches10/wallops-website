@@ -1,10 +1,10 @@
 {
   "hero": {
-    "title": "PureVue Service Plan",
+    "title": "Wallops Cleaning Service Plans",
     "subtitle": "",
     "image": "",
-    "videoUrl": "https://vvcjevhuydxbcwwibkra.supabase.co/storage/v1/object/sign/website-assets-clients/PureVue/serviceplans.mp4?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8xOTUxN2U0YS02N2JlLTQyYTItYjJhZi0xYjI3ZGRlM2NhYTUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ3ZWJzaXRlLWFzc2V0cy1jbGllbnRzL1B1cmVWdWUvc2VydmljZXBsYW5zLm1wNCIsImlhdCI6MTc2MTUxNzU3MCwiZXhwIjoxNzkzMDUzNTcwfQ.c_uYdR-kaI70KQW6w5Y3qdHfUQUG5qjaKEwemHovW2s",
-    "useVideo": true,
+    "videoUrl": "",
+    "useVideo": false,
     "cta": {
       "primary": {
         "enabled": true,
@@ -16,7 +16,7 @@
       "secondary": {
         "enabled": true,
         "text": "Call Now",
-        "link": "tel:(262) 721-5753",
+        "link": "tel:(865) 336-0700",
         "color": "white",
         "textColor": "primary"
       }
@@ -25,34 +25,34 @@
   "process": {
     "enabled": true,
     "title": "How It Works",
-    "description": "Your windows now stay crystal-clear, protected, and warrantied all year round!",
+    "description": "Enjoy hassle-free, recurring cleaning services that keep your property beautiful year-round!",
     "image": "",
     "steps": [
       {
         "step": 1,
-        "title": "Deep Clean + Soft Water Removal",
-        "description": "We begin by restoring clarity, removing layers of grime and stubborn mineral deposits."
+        "title": "Professional Assessment",
+        "description": "We evaluate your property and discuss your specific cleaning needs and goals."
       },
       {
         "step": 2,
-        "title": "Nanocoat Application",
-        "description": "We apply a clear barrier that resists soft water stains—a shield for lasting protection."
+        "title": "Customized Plan",
+        "description": "We create a service schedule tailored to your property and maintenance requirements."
       },
       {
         "step": 3,
-        "title": "Warranty Backed",
-        "description": "If spots appear between services, we’ll return to handle them at no extra cost."
+        "title": "Reliable Service",
+        "description": "Our team delivers consistent, high-quality cleaning on your scheduled dates."
       },
       {
         "step": 4,
-        "title": "Quarterly Services",
-        "description": "Every season, we come back to renew your nanocoat and restore a streak-free finish."
+        "title": "Ongoing Support",
+        "description": "We provide regular maintenance to keep your property looking pristine year-round."
       }
     ]
   },
   "benefits": {
     "enabled": true,
-    "title": "Why Choose Our Plan",
+    "title": "Benefits of Regular Maintenance Plans",
     "description": "",
     "items": [
       {

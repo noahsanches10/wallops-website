@@ -1,34 +1,30 @@
 {
-  "siteName": "PureVue Window Cleaning",
-  "tagline": "Clear Views, Clear Minds",
-  "logo": "/uploads/1762018102416.png",
+  "siteName": "Wallops Cleaning Services",
+  "tagline": "Professional Cleaning for Your Home",
+  "logo": "/uploads/1765334379422.png",
   "brandColors": {
-    "primary": "#0478CB",
-    "secondary": "#E1E1E1",
-    "accent": "#3BB4FD"
+    "primary": "#3A0CA3",
+    "secondary": "#00000",
+    "accent": "#737C7E"
   },
   "headerStyle": "default",
   "footerStyle": "default",
   "contact": {
-    "phone": "(262) 721-5753",
-    "email": "admin@purevuecleanings.com",
+    "phone": "(865) 336-0700",
+    "email": "",
     "address": ""
   },
   "serviceAreas": [
-    "Milwaukee",
-    "Racine",
-    "Kenosha",
-    "New Berlin",
-    "Waukesha",
-    "Bristol",
-    "Brookfield",
-    "Franklin",
-    "Oak Creek",
-    "Whitefish Bay"
+    "Vonore",
+    "Maryville",
+    "Knoxville",
+    "Loudon",
+    "Madisonville",
+    "Tellico Village"
   ],
   "socialMedia": {
-    "facebook": "https://www.facebook.com/profile.php?id=61569309758816",
-    "instagram": "https://www.instagram.com/purevuecleanings",
+    "facebook": "https://www.facebook.com/WallopsServices",
+    "instagram": "",
     "nextdoor": "",
     "google": ""
   },
@@ -37,12 +33,12 @@
   "bannerLayout": "contained",
   "bannerStyle": "secondary",
   "ctaBanner": {
-    "title": "Ready for a Sparkling Clean Exterior?",
-    "subtitle": "Contact us today for a free estimate and see the difference professional cleaning makes.",
+    "title": "Ready for Professional Cleaning?",
+    "subtitle": "Contact Wallops Cleaning Services today for a free estimate and see the difference professional cleaning makes.",
     "primaryText": "Get Free Estimate",
     "secondaryText": "Call Now",
     "primaryLink": "/contact",
-    "secondaryLink": "tel:(262)721-5753",
+    "secondaryLink": "tel:(865)336-0700",
     "primaryEnabled": true,
     "primaryButtonColor": "primary",
     "style": "accent",
@@ -63,7 +59,7 @@
   },
   "showLogoInFooter": false,
   "logoSize": 60,
-  "favicon": "/uploads/1762018114883.png",
+  "favicon": "/uploads/1765334387253.png",
   "footerTextColor": "white",
   "fontFamily": "poppins",
   "heroBackgrounds": {
@@ -72,7 +68,7 @@
     "home": "https://vvcjevhuydxbcwwibkra.supabase.co/storage/v1/object/sign/website-assets-clients/PureVue/HERO.mp4?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8xOTUxN2U0YS02N2JlLTQyYTItYjJhZi0xYjI3ZGRlM2NhYTUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ3ZWJzaXRlLWFzc2V0cy1jbGllbnRzL1B1cmVWdWUvSEVSTy5tcDQiLCJpYXQiOjE3NjI0NDYwNTMsImV4cCI6MTc5Mzk4MjA1M30.hmWBGtWeGEkX8UY9HwZWQmR9vrjGS1Ob9wS8GFD-eEk"
   },
   "heroStyling": {
-    "backgroundType": "accent",
+    "backgroundType": "secondary",
     "backgroundImage": ""
   },
   "heroOverlays": {

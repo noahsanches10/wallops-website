@@ -23,18 +23,18 @@
   "story": {
     "title": "Our Story",
     "content": [
-      "At PureVue, we’re more than just a window cleaning and painting business. We are college educated. We are athletes. We are dedicated. At PureVue, our goal is to create a service that will last. We don’t just want to visit you once, we want to build a long standing relationship and earn your business for life. We are dedicated to making your home shine, each and every time. ",
-      "PureVue was built on the belief that homeowners deserve premium, hassle-free service while students gain meaningful opportunities to lead, learn, and grow. We take pride in combining professional results with a fresh approach to customer care.",
-      "Choosing PureVue means choosing more than sparkling glass and beautifully painted exteriors. It means supporting a program that empowers students while delivering unmatched service to your home. From Northern Milwaukee all the way to Southern Kenosha, we bring professional care, reliable service, and the promise of a team invested in your satisfaction. With PureVue, your property shines brighter, and so does the next generation."
+      "Wallops Cleaning Services was founded with a simple mission: to provide East Tennessee with professional, reliable cleaning solutions that homeowners can trust. We understand that your home is your investment, and keeping it clean and well-maintained is a priority.",
+      "What started as a commitment to exceptional service has grown into a trusted name throughout Vonore, Maryville, Knoxville, Loudon, Madisonville, and Tellico Village. We've built our reputation on hard work, attention to detail, and genuine care for our customers' properties.",
+      "Every member of our team is trained to deliver professional results while treating your home with respect. Whether it's crystal-clear windows, pressure-washed driveways, clean gutters, or festive holiday lighting, we bring the same dedication to every job. Wallops Cleaning Services isn't just about cleaning—it's about building lasting relationships with our neighbors and customers throughout East Tennessee."
     ],
     "stats": [
       {
-        "number": "1000+",
-        "label": "Wisconsin Properties Served"
+        "number": "500+",
+        "label": "East Tennessee Properties Served"
       },
       {
-        "number": "3+",
-        "label": "Years Serving Wisconsin"
+        "number": "5+",
+        "label": "Years of Excellence"
       },
       {
         "number": "100%",
@@ -44,34 +44,34 @@
     "image": "/uploads/about-1761519412210.jpg"
   },
   "values": {
-    "title": "Why Wisconsin Chooses PureVue",
-    "subtitle": "We're committed to excellence in every aspect of our Milwaukee and Wisconsin exterior cleaning and painting services",
+    "title": "Our Core Values",
+    "subtitle": "We're committed to excellence in every aspect of our professional cleaning and maintenance services",
     "items": [
       {
         "icon": "shield",
         "title": "Licensed & Insured",
-        "description": "Fully licensed Wisconsin professionals with comprehensive insurance coverage for complete peace of mind for all our cleaning and painting services."
+        "description": "Fully licensed professionals with comprehensive insurance coverage for complete peace of mind on all our cleaning services."
       },
       {
         "icon": "clock",
         "title": "Reliable Service",
-        "description": "Punctual, professional service with flexible scheduling to fit your busy Wisconsin lifestyle. We arrive on time and deliver results that exceed expectations."
+        "description": "Punctual, professional service with flexible scheduling to fit your busy lifestyle. We arrive on time and deliver results that exceed expectations."
       },
       {
         "icon": "award",
         "title": "Satisfaction Guarantee",
-        "description": "100% satisfaction guarantee on all our Wisconsin exterior cleaning and painting services. If you're not happy, we'll make it right."
+        "description": "100% satisfaction guarantee on all our cleaning services. If you're not happy, we'll make it right."
       },
       {
         "icon": "users",
-        "title": "Local Community Focus",
-        "description": "Student-powered business deeply rooted in the Wisconsin community, invested in your satisfaction and in developing the next generation of professionals."
+        "title": "Community Focused",
+        "description": "Locally owned and deeply rooted in the East Tennessee community. We're invested in your satisfaction and in serving our neighbors with excellence."
       }
     ]
   },
   "team": {
     "title": "Meet Our Team",
-    "subtitle": "Professional exterior cleaning and painting specialists dedicated to serving the Wisconsin community",
+    "subtitle": "Professional cleaning service specialists dedicated to serving the East Tennessee community",
     "members": []
   }
 }

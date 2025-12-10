@@ -1,14 +1,14 @@
 {
   "hero": {
-    "title": "Clear Views, Clear Minds",
-    "subtitle": "The best Premium Window Cleaning & Painting Service in Wisconsin",
+    "title": "Wallops Cleaning Services",
+    "subtitle": "The best premium cleaning service in East Tennessee",
     "image": "",
     "ctaText": "Get Free Estimate",
     "ctaLink": "/contact",
     "cta": {
       "primary": {
         "text": "Call Now",
-        "link": "tel:(262) 721-5753",
+        "link": "tel:(865) 336-0700",
         "enabled": true,
         "color": "accent",
         "textColor": "white"
@@ -50,24 +50,24 @@
     },
     "whyChooseUs": {
       "enabled": true,
-      "title": "Why Wisconsin Chooses PureVue",
+      "title": "Why Choose Us",
       "subtitle": "",
       "background": "secondary-light",
       "items": [
         {
           "icon": "award",
           "title": "Locally Owned, Community Trusted",
-          "description": "As Wisconsin natives, we pour heart into every job, building trust with neighbors through a reliable, friendly service."
+          "description": "Wallops Cleaning Services has been serving East Tennessee with dedication and pride, building trust with neighbors through reliable and friendly service."
         },
         {
           "icon": "droplets",
           "title": "Professional Results, Every Time",
-          "description": "Our skilled team delivers premium Wisconsin Window Cleaning and Painting that transforms your property with precision and care."
+          "description": "Our skilled team delivers premium cleaning services for windows, pressure washing, gutters, and holiday lighting with precision and care."
         },
         {
           "icon": "users",
           "title": "Customer-First Approach",
-          "description": "We prioritize your satisfaction by offering a tailored solution: clear communication, a precise walk-around, no shortcuts."
+          "description": "We prioritize your satisfaction by offering tailored solutions: clear communication, precise assessments, and no shortcuts."
         }
       ]
     },
@@ -101,7 +101,7 @@
       ],
       "useEmbed": true,
       "embedCode": "<script src=\"https://elfsightcdn.com/platform.js\" async></script>\n<div class=\"elfsight-app-893eac12-ce22-4682-9d4b-759a3336e8d5\" data-elfsight-app-lazy></div>",
-      "iframeUrl": "https://f7f02d61028d4eb4b0096f04e2a58890.elf.site",
+      "iframeUrl": "https://15bccb0d3f3b499e93f42f32658d79a2.elf.site",
       "iframeHeight": "275px"
     },
     "gallery": {
@@ -170,23 +170,23 @@
       "items": [
         {
           "question": "How often should I have my windows professionally cleaned?",
-          "answer": "For Wisconsin homes, we recommend professional window cleaning every 3-6 months. This ensures that your windows stay not only clean but protected year round!"
+          "answer": "For East Tennessee homes, we recommend professional window cleaning every 3-6 months. This ensures your windows stay clean and protected year-round!"
         },
         {
-          "question": "What types of windows do you clean?",
-          "answer": "We specialize in cleaning all types of windows, wood, aluminum, and vinyl framed windows. Our services are suitable for both residential and commercial properties. We also clean lead glass windows."
+          "question": "What surfaces can pressure washing clean?",
+          "answer": "We can safely pressure wash driveways, sidewalks, decks, patios, siding, fences, and more. We adjust our equipment and techniques based on the surface to prevent damage."
+        },
+        {
+          "question": "Do you clean gutters?",
+          "answer": "Yes! Gutter cleaning is one of our core services. We safely remove debris and ensure proper water flow to protect your home's foundation."
+        },
+        {
+          "question": "Do you install holiday lighting?",
+          "answer": "Absolutely! We offer professional holiday lighting installation to make your home festive and beautiful. We handle design, installation, and takedown."
         },
         {
           "question": "Do you have a satisfaction guarantee?",
           "answer": "Yes! We stand behind our work with a 100% satisfaction guarantee. If you're not completely happy with our service, we'll make it right at no additional charge."
-        },
-        {
-          "question": "How long does a fresh coat of paint last?",
-          "answer": "The lifespan of exterior paint typically ranges from 5-7 years in Wisconsin, however OUR paint products last 8-15 years depending on weather exposure, surface preparation, and number of coats. We use premium, weather-resistant paints and proper application techniques to maximize durability and ensure you're getting exactly what you're looking for."
-        },
-        {
-          "question": "What surfaces can you paint on your exterior painting service?",
-          "answer": "We paint all wood types, aluminum, vinyl (with vinyl safe paint), and any cement based projects! This includes all parts of your home or business, shutters, facia, eaves, siding, doors, inside & outside."
         }
       ]
     },

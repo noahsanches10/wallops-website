@@ -1,7 +1,7 @@
 {
   "pageType": "multiple",
   "showAllServicesPage": false,
-  "title": "Our Pool & Spa Services",
+  "title": "Our Cleaning Services",
   "subtitle": "",
   "displayType": "images",
   "services": [
@@ -37,33 +37,95 @@
       ]
     },
     {
-      "title": "Painting",
-      "description": "Professional exterior & interior painting that enhances & protects your Wisconsin Home.",
+      "title": "Pressure Washing",
+      "description": "Professional pressure washing for driveways, decks, patios, siding, and more",
       "icon": "wrench",
-      "image": "https://5.imimg.com/data5/FG/KM/MY-8797479/commercial-painting-services.jpg",
-      "slug": "painting",
+      "image": "https://lonestarshineexteriorcleaning.com/uploads/service-1758833007596.png",
+      "slug": "pressure-washing",
       "enabled": true,
       "showOtherServices": true,
       "showThumbnailInHero": false,
       "showContentInHero": false,
       "contentImage": "",
-      "longDescription": "Our professional exterior painting service transforms your home's appearance while protecting it against Wisconsin's harsh weather conditions. We handle everything from surface preparation to final coat application, using premium-grade paints and proven techniques to deliver exceptional quality and durability. PureVue Painting, Coated to Last.",
+      "longDescription": "Our professional pressure washing service removes dirt, grime, mold, and algae from virtually any outdoor surface. We use the right equipment and techniques to clean effectively without damaging your property. From driveways to decks, patios to siding, we'll restore your exterior surfaces to like-new condition.",
       "benefits": [
         {
-          "title": "Premium Paint Quality",
-          "description": "We only use top-quality Sherwin Williams Paint. By using the best, you can expect the best results with smooth coverage, rich color, and lasting durability."
+          "title": "Safe, Professional Techniques",
+          "description": "We adjust pressure and cleaning methods based on the surface to prevent damage while ensuring thorough cleaning."
         },
         {
-          "title": "Expert Surface Preparation",
-          "description": "Proper preparation is key to lasting results. We thoroughly prepare all surfaces, including power washing, scraping, sanding, and priming as needed."
+          "title": "Eco-Friendly Solutions",
+          "description": "We use environmentally responsible cleaning solutions that are safe for your family, pets, and landscaping."
         },
         {
-          "title": "Professional Application",
-          "description": "Our skilled painters use professional techniques and equipment to ensure even coverage, clean lines, and a flawless finish that lasts."
+          "title": "Complete Cleaning",
+          "description": "Driveways, decks, patios, siding, fences, and more - we can handle any outdoor surface."
         },
         {
-          "title": "Design Consultation",
-          "description": "We provide free color samples and will personally apply the colors to your home to ensure we have exactly what you are looking for. "
+          "title": "Quick Results",
+          "description": "Fast turnaround with stunning results that enhance your home's curb appeal immediately."
+        }
+      ]
+    },
+    {
+      "title": "Gutter Cleaning",
+      "description": "Professional gutter cleaning and maintenance to protect your home",
+      "icon": "droplets",
+      "image": "https://lonestarshineexteriorcleaning.com/uploads/service-1755721787761.jpg",
+      "slug": "gutter-cleaning",
+      "enabled": true,
+      "showOtherServices": true,
+      "showThumbnailInHero": false,
+      "showContentInHero": false,
+      "contentImage": "",
+      "longDescription": "Clean gutters are essential for protecting your home from water damage. Our professional gutter cleaning service removes debris and ensures proper water drainage. We handle everything safely and efficiently, so you don't have to worry about climbing ladders or dealing with leaves and dirt.",
+      "benefits": [
+        {
+          "title": "Debris Removal",
+          "description": "Complete removal of leaves, twigs, and other debris that can clog gutters and cause water damage."
+        },
+        {
+          "title": "Safe Service",
+          "description": "Professional crews with proper safety equipment - no need for you to tackle this dangerous task."
+        },
+        {
+          "title": "Prevent Water Damage",
+          "description": "Properly flowing gutters protect your foundation, basement, and landscape from expensive water damage."
+        },
+        {
+          "title": "Regular Maintenance",
+          "description": "Schedule seasonal cleanings to keep your gutters in top condition year-round."
+        }
+      ]
+    },
+    {
+      "title": "Holiday Lighting",
+      "description": "Professional holiday lighting design and installation for a festive home",
+      "icon": "award",
+      "image": "/uploads/service-holiday-lighting.jpg",
+      "slug": "holiday-lighting",
+      "enabled": true,
+      "showOtherServices": true,
+      "showThumbnailInHero": false,
+      "showContentInHero": false,
+      "contentImage": "",
+      "longDescription": "Make your home the highlight of the neighborhood with professional holiday lighting. Our team designs custom lighting displays tailored to your home's architecture and style. We handle all installation, and provide convenient removal when the season ends.",
+      "benefits": [
+        {
+          "title": "Custom Design",
+          "description": "We work with you to create a beautiful holiday light display that matches your style and preferences."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Expert installation with high-quality LED lights and commercial-grade wiring for safety and durability."
+        },
+        {
+          "title": "Hassle-Free Service",
+          "description": "We handle design, installation, and removal - you just enjoy the beautiful results and compliments from neighbors."
+        },
+        {
+          "title": "Energy Efficient",
+          "description": "We use LED lights that are energy-efficient and long-lasting, reducing your electricity costs."
         }
       ]
     }
@@ -78,8 +140,8 @@
     },
     "secondary": {
       "text": "Call Now",
-      "link": "tel:(512) 359-8746",
-      "enabled": false
+      "link": "tel:(865) 336-0700",
+      "enabled": true
     }
   }
 }
